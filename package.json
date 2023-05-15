@@ -1,0 +1,25 @@
+{
+  "name": "230515-ts-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JseopKim/230515-ts-prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JseopKim/230515-ts-prac/issues"
+  },
+  "homepage": "https://github.com/JseopKim/230515-ts-prac#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "tslint": "^6.1.3",
+    "typescript": "^5.0.4"
+  }
+}
